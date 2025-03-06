@@ -1,0 +1,50 @@
+{
+  "short_name": "Sarah Collins",
+  "name": "Portfolio of Sarah Collins",
+  "icons": [
+    {
+      "src": "icons8-email.svg",
+      "type": "image/svg",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons8-github.svg",
+      "type": "image/svg",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons8-linkedin.svg",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "StarVector.svg",
+      "type": "image/png",
+      "sizes": "44x42"
+    },
+    {
+      "src": "src/images/Border.svg",
+      "type": "image/svg",
+      "sizes": "402x401"
+    },
+    {
+      "src": "src/images/LongBorder.svg",
+      "type": "image/svg",
+      "sizes": "639x299"
+    },
+    {
+      "src": "src/images/StarDivider.svg",
+      "type": "image/svg",
+      "sizes": "230x28"
+    },
+    {
+      "src": "src/images/StarVector.svg",
+      "type": "image/svg",
+      "sizes": "44x42"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#13050",
+  "background_color": "#13050"
+}
