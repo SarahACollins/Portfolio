@@ -1,0 +1,18 @@
+<svg width="402" height="401" viewBox="0 0 402 401" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="21" y1="0.5" x2="381" y2="0.5" stroke="white"/>
+<line x1="21" y1="400.5" x2="381" y2="400.5" stroke="white"/>
+<line x1="1.5" y1="20" x2="1.5" y2="380" stroke="white"/>
+<line x1="400.5" y1="21" x2="400.5" y2="381" stroke="white"/>
+<path d="M1 380.5C15.7498 380.814 20.2058 385.966 20.5 401" stroke="white"/>
+<path d="M400 380.5C385.25 380.814 380.794 385.966 380.5 401" stroke="white"/>
+<path d="M2 20.5C16.7498 20.1859 21.2058 15.034 21.5 0" stroke="white"/>
+<path d="M401 20.5C386.25 20.1859 381.794 15.034 381.5 0" stroke="white"/>
+<line x1="30" y1="11.5" x2="372" y2="11.5" stroke="white"/>
+<path d="M29 390.5H372" stroke="white"/>
+<line x1="11.5" y1="30" x2="11.5" y2="372" stroke="white"/>
+<line x1="389.5" y1="30" x2="389.5" y2="372" stroke="white"/>
+<path d="M11 372C24.6152 372.291 28.7284 377.066 29 391" stroke="white"/>
+<path d="M390 372C376.385 372.291 372.272 377.066 372 391" stroke="white"/>
+<path d="M11 30C25.3716 29.7089 29.7133 24.934 30 11" stroke="white"/>
+<path d="M390 30C376.385 29.7089 372.272 24.934 372 11" stroke="white"/>
+</svg>

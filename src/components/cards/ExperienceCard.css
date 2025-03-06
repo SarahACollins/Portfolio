@@ -1,0 +1,42 @@
+.exp-card {
+    margin-bottom: 0rem;
+    padding: 2rem;
+    padding-bottom: 2.5rem;
+    transition: .2s;
+}
+
+.exp-card:hover {
+    background-color: #270a0a;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.exp-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.exp-title {
+    font-weight: 300;
+}
+
+.exp-label {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: .25rem 0;
+}
+
+.exp-detail {
+    margin: 1.5rem 0;
+}
+
+.link-arrow {
+    transform: rotate(45deg);
+    color: white;
+    transition: transform 0.5s ease;
+}
+
+.exp-card:hover .link-arrow {
+    transform: translate(8px, -8px) rotate(45deg);
+}

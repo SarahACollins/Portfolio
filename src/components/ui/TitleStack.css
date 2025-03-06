@@ -1,0 +1,12 @@
+.title-stack {
+    display: flex;
+    flex-direction: column;
+
+    h3 {
+        order: 2;
+    }
+
+    p {
+        order: 1;
+    }
+} 

@@ -1,0 +1,46 @@
+.prj-card {
+    margin-bottom: 1rem;
+    padding: 2rem 2rem;
+ }
+
+ .prj-card-clickable:hover {
+    background-color: #270a0a;
+    border-radius: 8px;
+    cursor: pointer;
+ }
+
+.prj-card:last-of-type {
+    margin-bottom: 1rem;
+}
+
+.prj-card-title-stack {
+
+    h3 {
+        margin: .25rem 0;
+    }
+}
+
+.prj-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.prj-detail {
+    margin: 1.5rem 0 1rem 0;
+}
+
+.badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.link-arrow {
+    transform: rotate(45deg);
+    color: white;
+}
+
+.prj-card:hover .link-arrow {
+    transform: translate(8px, -8px) rotate(45deg);
+}

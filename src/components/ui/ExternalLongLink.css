@@ -1,0 +1,31 @@
+.external-long-link {
+    text-decoration: none;
+}
+
+.external-long-link:visited {
+    text-decoration: none;
+}
+
+.external-long-link-text {
+    padding-left: 2rem;
+    color: white;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    font-size: 1rem;
+
+    p {
+        font-family: 'Coromont Garamond';
+        font-size: 1.25rem;
+        margin-right: .75rem;
+    }
+}
+
+.external-long-link-arrow {
+    transition: transform 0.5s ease;
+}
+
+.external-long-link:hover .external-long-link-arrow {
+    transform: translateX(8px);
+}
