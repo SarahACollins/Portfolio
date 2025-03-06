@@ -3,21 +3,6 @@
   "name": "Portfolio of Sarah Collins",
   "icons": [
     {
-      "src": "icons8-email.svg",
-      "type": "image/svg",
-      "sizes": "48x48"
-    },
-    {
-      "src": "icons8-github.svg",
-      "type": "image/svg",
-      "sizes": "48x48"
-    },
-    {
-      "src": "icons8-linkedin.svg",
-      "type": "image/png",
-      "sizes": "48x48"
-    },
-    {
       "src": "StarVector.svg",
       "type": "image/png",
       "sizes": "44x42"
