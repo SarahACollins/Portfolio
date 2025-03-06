@@ -13,7 +13,7 @@
     align-content: center;
     width: 275px;
     height: 275px;
-    background-image: url("../../images/Border.svg");
+    background-image: url("/images/Border.svg");
     margin-bottom: 4rem;
     background-size: cover;
     padding: 2rem;
@@ -35,7 +35,7 @@
     .profile-card {
         width: 650px;
         height: 270px;
-        background-image: url("../../images/LongBorder.svg");
+        background-image: url("/images/LongBorder.svg");
     
         p {
             font-size: 2rem;
@@ -51,7 +51,7 @@
         height: 300px;
         width: 300px;
         max-width: 300px;
-        background-image: url("../../images/Border.svg");
+        background-image: url("/images/Border.svg");
     
         h1 {
             margin-bottom: 2rem;
